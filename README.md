@@ -6,7 +6,7 @@ A aplicação consiste em uma Landing page biasica, onde as pessoas possam naveg
 
 ## Layout web
 <div>
-  <img src="./img/bicicleta.jpg>"
+  <img src="./img/bicicleta.jpg">
 </di>    
 
 # Tecnologias utilizadas
